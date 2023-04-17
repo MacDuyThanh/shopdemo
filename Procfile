@@ -1,1 +1,1 @@
-web: java -jar target/my-app-1.0-SNAPSHOT.jar
+web: java -jar target/shop-restul-1.0-SNAPSHOT.jar
